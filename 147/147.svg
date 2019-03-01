@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+</defs>
+<image preserveAspectRatio="none" x="47" y="113" width="561" height="57" xlink:href="img/1.png" />
+<image preserveAspectRatio="none" x="47" y="189" width="136" height="33" xlink:href="img/2.png" />
+<image preserveAspectRatio="none" x="47" y="240" width="465" height="44" xlink:href="img/3.png" />
+<g fill="#000000" >
+<use xlink:href="#f0_t" transform="matrix(12,0,0,12,844.9,1269.6)" />
+</g>
+<defs>
+<path d="M379,437c0,0,34,0,81,16c0,0,47,17,83,47c0,0,14,97,14,155c0,0,0,72,-25,156c0,0,-25,83,-70,128c0,0,-45,45,-103,45c0,0,-66,0,-116,-60c0,0,-50,-59,-50,-177c0,0,0,-157,66,-246c0,0,49,-64,120,-64ZM80,-20V7c0,0,97,1,181,45c0,0,83,44,161,153c0,0,78,109,109,240c0,0,-117,-75,-212,-75c0,0,-107,0,-183,82c0,0,-76,82,-76,219c0,0,0,132,76,236c0,0,92,126,240,126c0,0,124,0,213,-103c0,0,109,-128,109,-315c0,0,0,-169,-82,-314C616,301,533,155,385,59c0,0,-120,-79,-262,-79Z" 
+id="f0_t"
+transform="scale(0.001,-0.001)" />
+
+
+</defs>
+</svg>
